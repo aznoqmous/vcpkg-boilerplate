@@ -1,4 +1,4 @@
-.vscode
 .idea
-
+.vscode/settings.json
 build
+vcpkg_installed
